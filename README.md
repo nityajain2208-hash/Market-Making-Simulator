@@ -59,17 +59,14 @@ This captures both cash generated or spent through trades and changes in the mar
 8. Repeat the process and visualize the results.
 
 ## Results and Visualizations
-
 The simulation tracks the evolution of the market maker's portfolio and inventory.
 
-Recommended plots to include:
-
+Plots:
 - **P&L Over Time:** Shows how the portfolio's marked-to-market value changes throughout the simulation.
 - **Inventory Over Time:** Shows how the market maker's asset exposure evolves as trades are executed.
 
 These plots help illustrate the relationship between trading activity, inventory exposure, and portfolio performance.
-
-*Insert your generated plots here once they are available in the repository.*
+(market_making.png)
 
 ## Technology Stack
 
