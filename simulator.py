@@ -35,7 +35,6 @@ class MarketMaker:
     def mark_to_market(self):
         return self.cash + self.inventory * self.fair_value
 
-# Simulate
 mm = MarketMaker()
 n_steps = 2000
 pnl_series, inventory_series = [], []
